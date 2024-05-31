@@ -1,2 +1,2 @@
 # A-SAGA-Potugol
-Jogo de prompt feito em uma pseudolinguagem chamada Portugol
+Prompt game made in a pseudolanguage called Portugol
